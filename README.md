@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -------
 ### 블로그 주소
 https://velog.io/@lre12
+
+### 이력
+2021.01.11 ~ 현재 : 큐피스트(GLAM) 백엔드 SE 엔지니어 (LEO)
