@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 https://velog.io/@lre12
 
 ### 이력
-2021.01.11 ~ 현재 : 큐피스트(GLAM) 백엔드 SE 엔지니어 (LEO)
+2021.01.11 ~ 현재 : 큐피스트(GLAM) 백엔드 엔지니어 (LEO)
