@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ### 이력
 2021.01 ~ 2021.10 : 큐피스트(GLAM) 백엔드 엔지니어
+
 2021.10 ~ 현재 : 비바리퍼블리카 파이썬 엔지니어
